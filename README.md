@@ -11,3 +11,9 @@ this project was done to analyse chats group whatsapp groups, and i was build dy
 # how to use
 
 to use this code, all you have to do is export the chats from any whatsapp groups which will be used as the dataset for the program, and you are good to go, i recommend running this on colab.
+
+# Litraries
+
+- numpy
+- pandas
+- matplotlib
